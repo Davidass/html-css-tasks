@@ -9,3 +9,7 @@
 ### 3. [Tasks-03](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks3.html)
 
 ### 4. [Tasks-04](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks4.html)
+
+### 5. [Tasks-05](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks5.html)
+
+### 6. [Tasks-06](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks6.html)
