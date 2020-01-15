@@ -2,7 +2,7 @@
 
 ## [Homework-02-tasks](https://github.com/Davidass/html-css-tasks/tree/master/homework-02-tasks)
 
-## [Homework-03-tasks](https://github.com/Davidass/html-css-tasks/tree/master/homework-02-tasks)
+## [Homework-03-tasks](https://github.com/Davidass/html-css-tasks/tree/master/homework-03-tasks)
 
 ### 1. [Tasks-01](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks1.html)
 
@@ -15,3 +15,7 @@
 ### 5. [Tasks-05](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks5.html)
 
 ### 6. [Tasks-06](https://davidass.github.io/html-css-tasks/homework-02-tasks/tasks6.html)
+
+### 7. [Tasks-01](https://davidass.github.io/html-css-tasks/homework-03-tasks/tasks1.html)
+
+### 8. [Tasks-02](https://davidass.github.io/html-css-tasks/homework-03-tasks/tasks2.html)
