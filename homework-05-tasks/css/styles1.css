@@ -1,0 +1,8 @@
+.link::before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+  background-image: url(../ссылка.svg);
+}
