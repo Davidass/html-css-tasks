@@ -11,3 +11,7 @@
 ## [Homework-04-tasks](https://github.com/Davidass/html-css-tasks/tree/master/homework-04-tasks)
 
 ### 9. [Tasks-01](https://davidass.github.io/html-css-tasks/homework-04-tasks/tasks1.html) 10. [Tasks-02](https://davidass.github.io/html-css-tasks/homework-04-tasks/tasks2.html) 11. [Tasks-4](https://davidass.github.io/html-css-tasks/homework-04-tasks/tasks4.html)
+
+## [Homework-05-tasks](https://github.com/Davidass/html-css-tasks/tree/master/homework-05-tasks)
+
+### 10. [Tasks-01](https://davidass.github.io/html-css-tasks/homework-05-tasks/tasks1.html) 12. [Tasks-02](https://davidass.github.io/html-css-tasks/homework-04-tasks/tasks2.html) 13. [Tasks-3](https://davidass.github.io/html-css-tasks/homework-05-tasks/tasks3.html) 14. [Tasks-4](https://davidass.github.io/html-css-tasks/homework-05-tasks/tasks4.html)
