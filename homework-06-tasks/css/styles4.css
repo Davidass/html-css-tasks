@@ -1,0 +1,46 @@
+.container {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: #2a2a2a;
+}
+
+.box-1,
+.box-2,
+.box-3,
+.box-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  font-size: 50px;
+  color: #fff;
+}
+
+.box-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ed6337;
+}
+
+.box-2 {
+  position: absolute;
+  background-color: #4254af;
+  top: 0;
+  right: 0;
+}
+
+.box-3 {
+  position: absolute;
+  background-color: #429488;
+  bottom: 0;
+  right: 0;
+}
+.box-4 {
+  position: absolute;
+  background-color: #d73965;
+  bottom: 0;
+  left: 0;
+}
